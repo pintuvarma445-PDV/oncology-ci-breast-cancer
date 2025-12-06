@@ -1,0 +1,17 @@
+keyword,count
+other,3867
+inhibitor,77
+chemotherapy,75
+antibody,27
+her2,21
+"inhibitor, cdk4/6",8
+targeted,8
+hormone,7
+"antibody, her2",5
+immunotherapy,4
+"chemotherapy, inhibitor",2
+"chemotherapy, inhibitor, cdk4/6",2
+"antibody, chemotherapy",1
+cdk4/6,1
+"hormone, inhibitor",1
+"targeted, inhibitor, cdk4/6",1
